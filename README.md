@@ -1,4 +1,4 @@
-# Hello, world! 👋
+# Hello, World! 👋
 
 My name is Sung Hyun and I am from South Korea, living in Canada. I am currently an Android Software developer at HP and developing SDK libraries for open-source platform.
 
@@ -28,26 +28,28 @@ Support me for building more interesting projects! 💜
 ## 🤖 Technologies
 
 #### <i>Operating System</i>
-[![Generic badge](https://img.shields.io/badge/OS-Android-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/OS-Windows-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/OS-Unix-a5e3f5.svg)](#)
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="float: left" />
+</div>
 
-#### <i>Android Application Development</i>
-[![Generic badge](https://img.shields.io/badge/Programming-Kotlin-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-Java-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-XML-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Architecture-MVVM-a5e3f5.svg)](#)
+#### <i>Programming Languages</i>
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="float: left" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="float: left" />
+</div>
 
 #### <i>Database</i>
-[![Generic badge](https://img.shields.io/badge/Programming-MySQL-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-SQLite-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-ROOM-a5e3f5.svg)](#)
-
-#### <i>Website Development</i>
-[![Generic badge](https://img.shields.io/badge/Programming-HTML-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-CSS-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-JavaScript-a5e3f5.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Programming-JQuery-a5e3f5.svg)](#)
+<div>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="float: left" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="float: left" />
+</div>
 
 ## 🌐 Languages
 
