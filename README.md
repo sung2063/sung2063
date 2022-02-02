@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-My name is Sung Hyun and I am from South Korea, living in Canada. I am currently an Android Software developer at HP and developing SDK libraries for open-source platform.
+My name is Sung Hyun and I am from South Korea, living in Canada. I am currently an Android Software developer and developing SDK libraries for open-source platform.
 
 <b><i>Highlights</i></b>:
 - Certified <i>Associate Android Developer</i> by Google Developers
